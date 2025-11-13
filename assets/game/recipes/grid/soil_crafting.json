@@ -1,0 +1,40 @@
+[
+	{
+	"ingredientPattern": "CBC PVP CBC",
+	"ingredients": {
+		"C": { "type": "item", "code": "compost" },
+		"B": { "type": "item", "code": "bonemeal" },
+		"P": { "type": "item", "code": "potash" },
+		"V": { "type": "block", "code": "soil-verylow-none" }
+	},
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "soil-low-none", "quantity": 1  }
+	},
+	
+	{
+	"ingredientPattern": "CBC PVP CBC",
+	"ingredients": {
+		"C": { "type": "item", "code": "compost",  "quantity": 2 },
+		"B": { "type": "item", "code": "bonemeal",  "quantity": 2 },
+		"P": { "type": "item", "code": "potash",  "quantity": 2 },
+		"V": { "type": "block", "code": "soil-low-none" }
+	},
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "soil-medium-none", "quantity": 1  }
+	},
+	
+	{
+	"ingredientPattern": "CBC PVP CBC",
+	"ingredients": {
+		"C": { "type": "item", "code": "compost",  "quantity": 3 },
+		"B": { "type": "item", "code": "bonemeal",  "quantity": 3 },
+		"P": { "type": "item", "code": "potash",  "quantity": 3 },
+		"V": { "type": "block", "code": "soil-medium-none" }
+	},
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "soil-compost-none", "quantity": 1  }
+	}
+]

@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "better_soil_crafting",
+  "name": "Better Soil Crafting",
+  "description": "Gives the player the option to upgrade lower fertilty soils to higher ones by crafting.",
+  "authors": ["Bertazz0"],
+  "version": "1.0.0",
+  "dependency": {}
+}
